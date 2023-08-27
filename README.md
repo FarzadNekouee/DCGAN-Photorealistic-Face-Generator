@@ -13,7 +13,7 @@ Inspired by the intriguing website [This Person Does Not Exist](https://thispers
 ## 📊 Dataset
 The dataset used for this project is a subset of the CelebFaces Attributes (CelebA) Dataset, available on Kaggle [here](https://www.kaggle.com/datasets/farzadnekouei/50k-celebrity-faces-image-dataset).
 
-### Dataset Overview
+### Dataset Overview:
 ![Dataset Overview](dataset-overview.png)
 
 ## 📁 File Descriptions
@@ -25,13 +25,13 @@ The dataset used for this project is a subset of the CelebFaces Attributes (Cele
 2. Launch the `photorealistic-face-generation-using-dcgans.ipynb` notebook in Jupyter.
 3. Execute all cells in the notebook. Ensure you have enough resources to train the network.
 
-### Generated Images by Generator after 200 Epochs
+### Generated Images by Generator after 250 Epochs:
 ![Trained Generator](trained-generator.png)
 
 ⚠️ **Note**: A higher number of epochs could potentially lead to even more realistic and refined results.
 
 ## 🔗 Additional Resources
-- **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/code/farzadnekouei/photorealistic-face-generation-using-dcgans).
-- **Original Dataset**: Access the original CelebA dataset [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
-- **LinkedIn**: [Your Name's Profile](https://www.linkedin.com/in/farzad-nekouei-7535aa53/).
+- 🌐 **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/code/farzadnekouei/photorealistic-face-generation-using-dcgans).
+- 📂 **Original Dataset**: Access the original CelebA dataset [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+- 🤝 **Connect on LinkedIn**: Have questions or looking for collaboration? Let's connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
 
